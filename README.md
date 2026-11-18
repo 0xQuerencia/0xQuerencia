@@ -5,8 +5,7 @@
 ## me
 
 i'm usually tinkering with linux, desktop workflows, and whatever idea won't
-leave me alone. i like software that feels considered without getting in the
-way.
+leave me alone. 
 
 ## work
 
@@ -17,21 +16,12 @@ workflows, or a new way to explore an idea. the rest is in
 
 ## now
 
-<!-- hand-curated; update as priorities change -->
 
-- [Chamber](https://github.com/0xQuerencia/chamber) — a keyboard-first workspace
-  for Indian CA firms, built around clients, work, documents, and deadlines.
-- [X](https://github.com/0xQuerencia/x) — local dictation that can also open
-  apps, navigate the browser, or hand coding work to an agent.
-- [Aether](https://github.com/0xQuerencia/aether) — a Hyprland shell that brings
-  launching, controls, notifications, and windows into one island.
-- [TableTap](https://github.com/0xQuerencia/tabletap) — a local shortcut pad
-  with a keyboard-first terminal interface and microphone input.
+- [Chamber](https://github.com/0xQuerencia/chamber)
+- [X](https://github.com/0xQuerencia/x) 
+- [Aether](https://github.com/0xQuerencia/aether) 
+- [TableTap](https://github.com/0xQuerencia/tabletap) 
 
-## interests
-
-human-computer interaction · open source · linux desktop software ·
-developer tools · creative coding · experimental technology
 
 ## contact
 
