@@ -1,12 +1,4 @@
-<p align="center">
-  <samp>
-    <a href="#me">me</a> ·
-    <a href="#work">work</a> ·
-    <a href="#now">now</a> ·
-    <a href="#interests">interests</a> ·
-    <a href="#contact">contact</a>
-  </samp>
-</p>
+<p align="center"><samp><a href="#me">me</a> · <a href="#work">work</a> · <a href="#now">now</a> · <a href="#interests">interests</a> · <a href="#contact">contact</a></samp></p>
 
 <p align="center"><samp>hey, i'm ricky. i like building things i wish existed.</samp></p>
 
