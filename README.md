@@ -1,4 +1,4 @@
-<p align="center"><samp><a href="#me">me</a> · <a href="#work">work</a> · <a href="#now">now</a> · <a href="#interests">interests</a> · <a href="#contact">contact</a></samp></p>
+<p align="center"><samp><a href="https://querencia.art">me</a> · <a href="https://github.com/0xQuerencia?tab=repositories">work</a> · <a href="mailto:me@querencia.art">contact</a></samp></p>
 
 <p align="center"><samp>hey, i'm ricky. i like building things i wish existed.</samp></p>
 
@@ -13,14 +13,6 @@ most of what i make starts with a daily friction: desktop tools, keyboard-first
 workflows, or a new way to explore an idea. the rest is in
 [my repositories](https://github.com/0xQuerencia?tab=repositories) and
 [my portfolio](https://querencia.art).
-
-## now
-
-
-- [Chamber](https://github.com/0xQuerencia/chamber)
-- [X](https://github.com/0xQuerencia/x) 
-- [Aether](https://github.com/0xQuerencia/aether) 
-- [TableTap](https://github.com/0xQuerencia/tabletap) 
 
 
 ## contact
