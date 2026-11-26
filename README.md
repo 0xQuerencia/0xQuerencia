@@ -1,7 +1,3 @@
-<img src="./assets/project-index.svg" width="919" alt="Hey, I’m Ricky. I build things I wish existed: community projects, desktop tools, and experiments.">
-
 <p>
-  <a href="https://querencia.art"><img src="./assets/project-index-portfolio.svg" width="109" height="34" alt="portfolio"></a> &nbsp; / &nbsp;
-  <a href="mailto:me@querencia.art"><img src="./assets/project-index-contact.svg" width="99" height="34" alt="contact"></a> &nbsp; / &nbsp;
-  <a href="https://github.com/0xQuerencia?tab=repositories"><img src="./assets/project-index-all-work.svg" width="99" height="34" alt="all work"></a>
+<img src="./assets/project-index.svg" width="100%" align="top" alt="Hey, I’m Ricky. I build things I wish existed. Community projects, desktop tools, and experiments."><br><a href="https://querencia.art"><img src="./assets/project-index-portfolio.svg" width="21%" align="top" alt="portfolio"></a><a href="mailto:me@querencia.art"><img src="./assets/project-index-contact.svg" width="17%" align="top" alt="contact"></a><a href="https://github.com/0xQuerencia?tab=repositories"><img src="./assets/project-index-all-work.svg" width="16%" align="top" alt="all work"></a><img src="./assets/project-index-footer-art.svg" width="46%" align="top" alt="">
 </p>
