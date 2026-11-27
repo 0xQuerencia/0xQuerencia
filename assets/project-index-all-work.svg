@@ -2,32 +2,13 @@
 .nav-item{--nav-delay:0ms}
 .nav-contact{--nav-delay:90ms}
 .nav-all-work{--nav-delay:180ms}
-.nav-icon{transform-box:fill-box;transform-origin:center;animation:nav-icon-arrive 500ms cubic-bezier(.22,.61,.36,1) var(--nav-delay) backwards;transition:transform 180ms cubic-bezier(.22,.61,.36,1)}
-.nav-arrow{animation:nav-arrow-arrive 560ms cubic-bezier(.22,.61,.36,1) var(--nav-delay) backwards;transition:transform 180ms ease,stroke 180ms ease}
-.nav-underline{animation:nav-line-arrive 420ms ease-out var(--nav-delay) backwards;transition:stroke-width 180ms ease,stroke 180ms ease}
-.nav-label{transition:fill 180ms ease}
+.nav-icon{transform-box:fill-box;transform-origin:center;animation:nav-icon-arrive 500ms cubic-bezier(.22,.61,.36,1) var(--nav-delay) backwards}
+.nav-arrow{animation:nav-arrow-arrive 560ms cubic-bezier(.22,.61,.36,1) var(--nav-delay) backwards}
+.nav-underline{animation:nav-line-arrive 420ms ease-out var(--nav-delay) backwards}
 @keyframes nav-icon-arrive{0%{transform:translateY(2px);opacity:.72}60%{transform:translateY(-1.5px);opacity:1}100%{transform:translateY(0);opacity:1}}
 @keyframes nav-arrow-arrive{0%{opacity:.6;transform:translate(-1px,1px)}55%{opacity:1;transform:translate(2px,-2px)}100%{opacity:1;transform:translate(0,0)}}
 @keyframes nav-line-arrive{from{opacity:.45;stroke-dasharray:1;stroke-dashoffset:1}to{opacity:1;stroke-dasharray:1;stroke-dashoffset:0}}
-@media (hover:hover) and (pointer:fine){
-a:hover .nav-portfolio .nav-icon{transform:translateY(-2px)}
-a:hover .nav-contact .nav-icon{transform:translateY(-1px) rotate(-8deg)}
-a:hover .nav-all-work .nav-icon{transform:translateY(-2px) rotate(3deg)}
-a:hover .nav-arrow{transform:translate(2px,-2px);stroke:#1034c9}
-a:hover .nav-underline{stroke-width:1.8;stroke:#1034c9}
-a:hover .nav-label{fill:#1034c9}
-}
-a:focus-visible .nav-icon{transform:translateY(-2px)}
-a:focus-visible .nav-arrow{transform:translate(2px,-2px);stroke:#1034c9}
-a:focus-visible .nav-underline{stroke-width:2;stroke:#1034c9}
-a:focus-visible .nav-label{fill:#1034c9}
-a:active .nav-item .nav-icon{transform:translateY(1px) scale(.96)}
-a:active .nav-arrow{transform:translate(1px,-1px)}
-@media (prefers-reduced-motion:reduce){
-.nav-icon,.nav-arrow,.nav-underline{animation:none;transition:none}
-.nav-label{transition:none}
-a:hover .nav-item .nav-icon,a:focus-visible .nav-item .nav-icon,a:active .nav-item .nav-icon,a:hover .nav-arrow,a:focus-visible .nav-arrow,a:active .nav-arrow{transform:none}
-}
+@media (prefers-reduced-motion:reduce){.nav-icon,.nav-arrow,.nav-underline{animation:none}}
 </style>
 <defs>
   <linearGradient id="paper" x2=".25" y2="1"><stop stop-color="#f1efee"/><stop offset="1" stop-color="#fff"/></linearGradient>
